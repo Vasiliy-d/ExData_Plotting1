@@ -1,5 +1,5 @@
 ##plot4.R
-0.7
+## created long time ago, but re-submitting as I did not finished project 2 that time
 plot4 <- function(){
         
         tab5rows <- read.table("household_power_consumption.txt", header = TRUE, 

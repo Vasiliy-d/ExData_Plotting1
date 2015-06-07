@@ -1,5 +1,5 @@
 ##plot3.R
-
+## created long time ago, but re-submitting as I did not finished project 2 that time
 plot3 <- function(){
   
   tab5rows <- read.table("household_power_consumption.txt", header = TRUE, 

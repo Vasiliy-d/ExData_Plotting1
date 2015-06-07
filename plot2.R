@@ -1,4 +1,5 @@
 ##plot2.R
+## created long time ago, but re-submitting as I did not finished project 2 that time
 
 plot2 <- function(){
   
